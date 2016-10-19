@@ -1,0 +1,6 @@
+[submodule "www/modules/custom/leevingo_modules"]
+	path = www/modules/custom/leevingo_modules
+	url = git@github.com:leevingo/leevingo_modules.git
+[submodule "www/themes/custom/leevingo_theme"]
+	path = www/themes/custom/leevingo_theme
+	url = git@github.com:leevingo/leevingo_theme.git
